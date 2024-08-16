@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicogent
 - 👀 I’m interested in technology
-- 🌱 I’m currently at eigth week of CS50x
+- 🌱 I’m currently at eighth week of CS50x
 
 
 <!---
