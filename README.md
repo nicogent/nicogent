@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicogent
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning python
+- 🌱 I’m currently at eigth week of CS50x
 
 
 <!---
